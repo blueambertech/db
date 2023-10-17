@@ -1,3 +1,3 @@
-module github.com/paceperspective/db-pkg
+module github.com/paceperspective/db
 
 go 1.21.1
