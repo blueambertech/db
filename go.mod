@@ -1,3 +1,3 @@
-module github.com/paceperspective/db
+module github.com/blueambertech/db
 
 go 1.21.1
